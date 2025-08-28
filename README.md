@@ -25,10 +25,13 @@ npm run dev
 The Vite dev server proxies `/api/*` calls to the backend.
 
 ## API Functionality
-Front end makes the API call "calc" to the server to calculate financing.
-Front end makes the API call "quotes"(GET) to the server to retrieve all quotes currently in store.
-Front end makes the API call "quotes"(POST) to the server to add a new quote to the store
-Front end makes the API call "quotes"(DELETE) to the server to remove a specified quote from the store
+* Front end makes the API call "calc" to the server to calculate financing.
+
+* Front end makes the API call "quotes"(GET) to the server to retrieve all quotes currently in store.
+
+* Front end makes the API call "quotes"(POST) to the server to add a new quote to the store
+
+* Front end makes the API call "quotes"(DELETE) to the server to remove a specified quote from the store
 
 ## Calculation
 Payment (within "calc" logic) uses the standard amortization formula:
