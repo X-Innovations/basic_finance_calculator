@@ -1,3 +1,4 @@
+<img width="1140" height="895" alt="Basic-Finance-Quote-Project" src="https://github.com/user-attachments/assets/0e2587dc-ed83-4d2a-b5b7-bec9ccd463db" />
 
 # xDeskPro Clone (Vue 3 + TypeScript + Vite) & TypeScript Backend - X Assessment - LUCAS LOPES
 
