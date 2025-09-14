@@ -45,4 +45,11 @@ You don’t need to match it pixel-for-pixel — use it as guidance for the stru
 3. Update this README with any notes you want us to know.  
 4. Share your fork when finished.  
 
-This project should take a few hours, not days. Focus on demonstrating your skills, not building a production-ready system.  
+This project should take a few hours, not days. Focus on demonstrating your skills, not building a production-ready system.
+
+---
+
+## Additional Documentation
+
+- For frontend documentation, see [frontend/README.md](./frontend/README.md)
+- For backend documentation, see [backend/README.md](./backend/README.md)
