@@ -51,5 +51,5 @@ This project should take a few hours, not days. Focus on demonstrating your skil
 
 ## Additional Documentation
 
-- For frontend documentation, see [frontend/README.md](./frontend/README.md)
-- For backend documentation, see [backend/README.md](./backend/README.md)
+- For frontend documentation, see [ui/README.md](./finance-calculator-ui/README.md)
+- For backend documentation, see [api/README.md](./finance-calculator-ui/README.md)
